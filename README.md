@@ -8,7 +8,7 @@ This is a wrapper of the Optimizely iOS SDK written entirely in swift. The wrapp
 
  
 
-<B>Requirements: </B>
+<H2><B>Requirements: </B></H2>
 
 iOS 8.0+ or tvOS 9.0+ 
 
