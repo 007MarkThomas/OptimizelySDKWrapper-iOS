@@ -26,7 +26,7 @@ https://docs.developers.optimizely.com/full-stack/docs/install-sdk-objective-c
 
 <H2><B>Usage:</B></H2>
 
-After installing SDK downloads these files and add them to your swift app. 
+After installing SDK add the "OptimizelyWrapper" file into your app. 
 
 There are a few things you need to change to get started: 
 
