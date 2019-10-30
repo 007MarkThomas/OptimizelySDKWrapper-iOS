@@ -24,7 +24,7 @@ https://docs.developers.optimizely.com/full-stack/docs/install-sdk-objective-c
 
  
 
-<B>Usage:</B>
+<H2><B>Usage:</B></H2>
 
 After installing SDK downloads these files and add them to your swift app. 
 
@@ -36,4 +36,4 @@ Also in the “OptimizelyService” file change the “sdkKey” to your SDK key
 
  
 
-<B>Extra Information: </B>
+<H2><B>Extra Information: </B></H2>
