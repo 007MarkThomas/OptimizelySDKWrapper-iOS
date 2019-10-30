@@ -1,9 +1,7 @@
 # OptimizelySDKWrapper-iOS
 
-CREATIVE-CCX OPTIMIZELY SWIFT SDK WRAPPER 
 
  
-
  
 
 This is a wrapper of the Optimizely iOS SDK written entirely in swift. The wrapper makes SDK usage even easier. We also created new functions which some of our previous clients have needed to make the onboarding of the SDK that much easier. 
