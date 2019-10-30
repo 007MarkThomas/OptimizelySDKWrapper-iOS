@@ -39,8 +39,8 @@ Also in the “OptimizelyWrapper” file change the “sdkKey” to your SDK key
 <H2><B>Extra Information: </B></H2>
 
 <ul>
- <li>For more information on installing the SDK: https://docs.developers.optimizely.com/full-stack/docs/install-sdk-objective-c</li>
- <li></li>
+ <li>Extra Information on installing the SDK: https://docs.developers.optimizely.com/full-stack/docs/install-sdk-objective-c</li>
+ <li>Extra Information regarding initializing the SDK and datafile polling: https://docs.developers.optimizely.com/full-stack/docs/initialize-sdk-objective-c</li>
  <li></li>
  <li></li>
  </ul>
