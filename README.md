@@ -32,7 +32,7 @@ There are a few things you need to change to get started:
 
 In the “OptimizelyWrapper” file change the ‘jsonDatafile’ variable to point to your datafile. Your link is available in the Optimizely dashboard under Settings. 
 
-Also in the “OptimizelyWrapper” file change the “sdkKey” to your SDK key which is also found in the Optimizely dashboard under the Settings 
+Also in the “OptimizelyWrapper” file change the “sdkKey” to your SDK key which is also found in the Optimizely dashboard under the Settings.
 
  
 
