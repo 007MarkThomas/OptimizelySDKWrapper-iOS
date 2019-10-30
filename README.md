@@ -30,10 +30,17 @@ After installing SDK downloads these files and add them to your swift app.
 
 There are a few things you need to change to get started: 
 
-In the “OptimizelyService” file change the ‘jsonDatafile’ variable to point to your datafile. Your link is available in the Optimizely dashboard under Settings. 
+In the “OptimizelyWrapper” file change the ‘jsonDatafile’ variable to point to your datafile. Your link is available in the Optimizely dashboard under Settings. 
 
-Also in the “OptimizelyService” file change the “sdkKey” to your SDK key which is also found in the Optimizely dashboard under the Settings 
+Also in the “OptimizelyWrapper” file change the “sdkKey” to your SDK key which is also found in the Optimizely dashboard under the Settings 
 
  
 
 <H2><B>Extra Information: </B></H2>
+
+<ul>
+ <li>For more information on installing the SDK: https://docs.developers.optimizely.com/full-stack/docs/install-sdk-objective-c</li>
+ <li></li>
+ <li></li>
+ <li></li>
+ </ul>
