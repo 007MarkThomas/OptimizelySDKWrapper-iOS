@@ -24,7 +24,7 @@ https://docs.developers.optimizely.com/full-stack/docs/install-sdk-objective-c
 
  
 
-Usage: 
+<B>Usage:<B>
 
 After installing SDK downloads these files and add them to your swift app. 
 
