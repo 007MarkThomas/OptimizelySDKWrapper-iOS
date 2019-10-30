@@ -8,7 +8,7 @@ This is a wrapper of the Optimizely iOS SDK written entirely in swift. The wrapp
 
  
 
-Requirements: 
+<B>Requirements: </B>
 
 iOS 8.0+ or tvOS 9.0+ 
 
@@ -24,7 +24,7 @@ https://docs.developers.optimizely.com/full-stack/docs/install-sdk-objective-c
 
  
 
-<B>Usage:<B>
+<B>Usage:</B>
 
 After installing SDK downloads these files and add them to your swift app. 
 
@@ -36,4 +36,4 @@ Also in the “OptimizelyService” file change the “sdkKey” to your SDK key
 
  
 
-Extra Information: 
+<B>Extra Information: </B>
